@@ -143,7 +143,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1150;
 				LastUpgradeCheck = 1230;
-				ORGANIZATIONNAME = "Nathan Borror";
+				ORGANIZATIONNAME = "Long Do";
 				TargetAttributes = {
 					D81896E92492DE1100440DE0 = {
 						CreatedOnToolsVersion = 11.5;
@@ -348,7 +348,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = run.nathan.Logger;
+				PRODUCT_BUNDLE_IDENTIFIER = run.theHaL253.StudentNotesTaking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -373,7 +373,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = run.nathan.Logger;
+				PRODUCT_BUNDLE_IDENTIFIER = run.theHaL253.StudentNotesTaking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
