@@ -1,9 +1,9 @@
 package logger
 
 import (
-	"github.com/nathanborror/logger/pkg/state"
-	"github.com/nathanborror/logger/pkg/state/beta"
-	"github.com/nathanborror/logger/pkg/state/production"
+	"github.com/theHaL253/StudentNotesTaking/pkg/state"
+	"github.com/theHaL253/StudentNotesTaking/pkg/state/beta"
+	"github.com/theHaL253/StudentNotesTaking/pkg/state/production"
 )
 
 const version = "1.0"
