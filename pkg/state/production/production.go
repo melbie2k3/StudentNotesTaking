@@ -10,7 +10,7 @@ import (
 
 	"github.com/jmoiron/sqlx"
 	_ "github.com/mattn/go-sqlite3" // driver
-	"github.com/nathanborror/logger/pkg/state"
+	"github.com/theHaL253/StudentNotesTaking/pkg/state"
 )
 
 type manager struct {
