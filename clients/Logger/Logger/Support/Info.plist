@@ -15,7 +15,7 @@
 			<string>Owner</string>
 			<key>LSItemContentTypes</key>
 			<array>
-				<string>run.nathan.logger.logger</string>
+				<string>run.theHaL253.StudentNotesTaking.logger</string>
 			</array>
 		</dict>
 	</array>
@@ -37,7 +37,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Viewer</string>
 			<key>CFBundleURLName</key>
-			<string>run.nathan.Logger</string>
+			<string>run.theHaL253.StudentNotesTaking</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>logger</string>
@@ -90,7 +90,7 @@
 			<key>UTTypeIconFiles</key>
 			<array/>
 			<key>UTTypeIdentifier</key>
-			<string>run.nathan.logger.logger</string>
+			<string>run.theHaL253.StudentNotesTaking.logger</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>
@@ -112,7 +112,7 @@
 			<key>UTTypeIconFiles</key>
 			<array/>
 			<key>UTTypeIdentifier</key>
-			<string>run.nathan.logger.logger</string>
+			<string>run.theHaL253.StudentNotesTaking.logger</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>
