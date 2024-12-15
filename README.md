@@ -8,7 +8,7 @@ To get things up an running _locally_ you'll need the latest version of [Go](htt
 
 1: Checkout and build:
 
-    $ git clone git@github.com:theHaL253/logger.git
+    $ git clone git@github.com:theHaL253/StudentNotesTaking.git
     $ cd logger
     $ go get
     $ make test
