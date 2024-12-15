@@ -1,4 +1,4 @@
-module github.com/nathanborror/logger
+module github.com/theHaL253/StudentNotesTaking
 
 go 1.16
 
